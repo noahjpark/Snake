@@ -1,4 +1,4 @@
 # Snake
 A remake of the classic game, "Snake", with a GUI
 
-![Snake Game](/images/snake.jpg)
+![Alt text](relative/path/to/images/snake.jpg?raw=true "Title")
